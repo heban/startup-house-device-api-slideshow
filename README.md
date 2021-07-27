@@ -1,0 +1,1 @@
+# startup-house-device-api-slideshow
