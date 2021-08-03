@@ -2,10 +2,10 @@
 Prezentacja stworzona dla Start-up House o komunikacji JavaScriptu z urządzeniami zewnętrznymi.
 
 ### Jak uruchomić?
-Najpierw instalujemy zależności poleceniem `yarn`.
-Następnie wystarczy w konsoli wpisać `yarn start` aby skrypt uruchomił prezentacje w oknie przeglądarki.
+Najpierw instalujemy zależności poleceniem `npm install`.
+Następnie wystarczy w konsoli wpisać `npm run start` aby skrypt uruchomił webserver.
 
-Aby wybudować wersję produkcyjną, zdolną do uruchomienia na serwerze, wpisz w konsoli `yarn build`. Polecenie to wybuduje prezentacje w katalogu `build`, który następnie należy uruchomić na lokalnym serwerze np. z użyciem modułu `serve`.
+Aby wybudować wersję produkcyjną, zdolną do uruchomienia na serwerze, wpisz w konsoli `npm run build`.
 
 ### Jak to zostało zrobione?
 
